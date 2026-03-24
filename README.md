@@ -1,4 +1,12 @@
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Zenodo](https://img.shields.io/badge/zenodo-2501.xxxxx-b31b1b.svg)](https://zenodo.org/abs/2501.xxxxx)
+[![DOI](https://img.shields.io/badge/DOI-10.1234%2Ftsqvt-blue)](https://doi.org/10.1234/tsqvt)
+[![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://tsqvt.readthedocs.io/)
+
+
+
+
 <p>
   <a href="https://github.com/WC-Extended-Domain/spectal-zeros-repo">
     <img src="https://github.com/WC-Extended-Domain/spectal-zeros-repo/blob/main/spectral-zeros-repo.png?raw=true" 
